@@ -1,3 +1,4 @@
+# Primer LAB
 products = ["t-shirt", "mug", "hat", "book", "keychain"]
 
 inventory = dict()
