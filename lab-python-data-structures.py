@@ -1,6 +1,7 @@
 # Primer LAB
 products = ["t-shirt", "mug", "hat", "book", "keychain"]
 
+# Creo un diccionario vacio
 inventory = dict()
 
 for product in products:
